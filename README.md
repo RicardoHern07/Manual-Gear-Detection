@@ -1,17 +1,17 @@
 # Detecting manual gear positions using HOG Features and SVM Classification
-Final Course Project for Spring 2019 CSCI 4301 Digital Image Processing
-Basic project that served as an introduction to Digital Image Processing, Machine Learning, and MATLAB
+Final Course Project for Spring 2019 CSCI 4301 Digital Image Processing  
+Basic project that served as an introduction to Digital Image Processing, Machine Learning, and MATLAB  
 
 ## Setup for gathering data
 ![image](https://drive.google.com/uc?export=view&id=1RX4B1Ck_NyPaMHndea6wDjO2DYBjyfPU)
 
 ## Instructions to run code
 
-Files Provided via GDrive Link: ground data video, test data video, demo output
-Files Not Provided:  parsed ground/test video images, ground_gear_ranges, test_gear_ranges, trained svm models
-https://drive.google.com/open?id=15csK7rZBYML2SpBF2gbmXVofz9BeyQsq
+Files Provided via GDrive Link: ground data video, test data video, demo output  
+Files Not Provided:  parsed ground/test video images, ground_gear_ranges, test_gear_ranges, trained svm models  
+https://drive.google.com/open?id=15csK7rZBYML2SpBF2gbmXVofz9BeyQsq  
 
-Move Ground Data.wmv and Test Data.wmv into video_data/
+Move Ground Data.wmv and Test Data.wmv into video_data/  
 
 1. Run, AddPath in Command Window (required)
 
