@@ -2,7 +2,7 @@
 Final Course Project for Spring 2019 CSCI 4301 Digital Image Processing
 
 ## Setup for gathering data
-![image](https://drive.google.com/uc?export=view&id=10ZfWgBnVrfX4IZPSTwxUuQbBkaBKqCLX)
+![image](https://drive.google.com/uc?export=view&id=1RX4B1Ck_NyPaMHndea6wDjO2DYBjyfPU)
 
 ## Instructions to run code
 
