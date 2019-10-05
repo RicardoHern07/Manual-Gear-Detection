@@ -14,9 +14,9 @@ https://drive.google.com/open?id=15csK7rZBYML2SpBF2gbmXVofz9BeyQsq
 
 Move Ground Data.wmv and Test Data.wmv into video_data/  
 
-1. Run, AddPath in Command Window (required)
+1. Run, AddPath in Command Window (required)  
 
-2. Open outer/PreProc.m
+2. Open outer/PreProc.m  
 	a. Run both sample calls situated above function, ParseVideo2Images  
 		This will populate the data/ground_gears/ and data/test_gears/ folders with  
 		images parsed from the ground and test videos  
@@ -27,14 +27,14 @@ Move Ground Data.wmv and Test Data.wmv into video_data/
 	
 	c. Once categorized, run both sample calls situated above function, ConstuctMat (Second sample call not required to produce final output)  
 
-3. Open outer/Prior.m
-	a. Run the sample call situated above function, TrainSVM
+3. Open outer/Prior.m  
+	a. Run the sample call situated above function, TrainSVM  
 
 	b. To test svm accuracy on the produced test gear mats,  
 		run lines 13 and 15 for rbf
 		or run lines 14 and 16 for linear	(Part b. Not required to produce final output)  
 
-4. Open outer/Form.m
+4. Open outer/Form.m  
 	a. To produce the final output,  
 		run lines 11 and 13 for rbf  
 		or run lines 12 and 14 for linear  
