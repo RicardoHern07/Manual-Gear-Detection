@@ -1,0 +1,1 @@
+Parsed images from ground truth video will be created here
